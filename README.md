@@ -16,4 +16,6 @@ Please fork this repo and add your changes.
 ## Other
 This text is for other notes
 
+## Adding section for stash testing
+
 ## Test
